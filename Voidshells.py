@@ -4,7 +4,6 @@ import base64
 import sys
 import urllib.parse
 from colorama import Fore, just_fix_windows_console
-just_fix_windows_console()
 
 
 def tool_banner():
@@ -1123,6 +1122,7 @@ banners = {
 
 
 if __name__ == '__main__':
+    just_fix_windows_console()
     tool_banner()
     args = user_input()
     user_lhost = args.lhost
