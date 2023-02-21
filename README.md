@@ -2,6 +2,16 @@
 
 ![](/Gif_for_readme/Voidshells.gif)
 
+## INDEX
+
+- [DESCRIPTION](#description)
+- [INSTALL](#install)
+	- [EXAMPLES](#examples)
+		- [LINUX](#Linux)
+		- [WINDOWS](#windows)
+	- [PARAMETERS](#parameters)
+- [USAGE](#usage)
+
 ## DESCRIPTION
 Voidshells is a command line tool with a friendly output that generates reverse shells, this tool provides the following features:
 
@@ -13,16 +23,6 @@ Voidshells is a command line tool with a friendly output that generates reverse 
 - Encoding types: **Base64, url**
 - Encoding N times
 - Syntax error checker for arguments
-
-## INDEX
-
-- [INSTALL](#install)
-- [USAGE](#usage)
-- [INSTALL](#install)
-	- [EXAMPLES](#examples)
-		- [LINUX](#Linux)
-		- [WINDOWS](#windows)
-	- [PARAMETERS](#parameters)
 
 ## INSTALL
 ```
