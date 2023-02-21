@@ -6,11 +6,12 @@
 
 - [DESCRIPTION](#description)
 - [INSTALL](#install)
+- [USAGE](#usage)
 	- [EXAMPLES](#examples)
 		- [LINUX](#Linux)
 		- [WINDOWS](#windows)
 	- [PARAMETERS](#parameters)
-- [USAGE](#usage)
+
 
 ## DESCRIPTION
 Voidshells is a command line tool with a friendly output that generates reverse shells, this tool provides the following features:
